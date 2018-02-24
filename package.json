@@ -1,0 +1,33 @@
+{
+  "name": "logodesign",
+  "version": "1.0.0",
+  "description": "An application for building logos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node index.js"
+  },
+  "dependencies": {
+    "bcrypt": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "svg-dimensions": "^1.0.2",
+    "svgpath": "^2.2.1",
+    "the-noun-project": "^2.0.1",
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irfankhan18/LogoStudioDesign.git"
+  },
+  "author": "Irfan Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irfankhan18/LogoStudioDesign/issues"
+  },
+  "homepage": "https://github.com/Irfankhan18/LogoStudioDesign#readme"
+}
