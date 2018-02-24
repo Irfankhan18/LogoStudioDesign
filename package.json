@@ -17,8 +17,7 @@
     "passport-jwt": "*",
     "svg-dimensions": "^1.0.2",
     "svgpath": "^2.2.1",
-    "the-noun-project": "^2.0.1",
-    
+    "the-noun-project": "^2.0.1"    
   },
   "repository": {
     "type": "git",
